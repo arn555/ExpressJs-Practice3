@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "response": [
+            {
+                "a": "I love that too",
+                "b": "Sound's Good.",
+                "c": "Good to know about that.",
+                "d": "Cool, I can't wait to go there with you"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "response": [
+            {
+                "a": "Amazing!",
+                "b": "Wow! It looks interesting",
+                "c": "Great",
+                "d": "I'm fine with that. It's Okay"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "response": [
+            {
+                "a": "You're funny ",
+                "b": "Great",
+                "c": "Wow! Tell me more about you please?",
+                "d": "I'm fine with that. It's Okay"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "response": [
+            {
+                "a": "Great! Hope we could hangout sometimes?",
+                "b": "Sound's Good",
+                "c": "Great",
+                "d": "I'm fine with that. It's Okay"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "response": [
+            {
+                "a": "I like it too",
+                "b": "Great",
+                "c": "I'm fine with that. It's Okay",
+                "d": "We should hangout! We have so much in common."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "response": [
+            {
+                "a": "Sounds good",
+                "b": "Great",
+                "c": "Me too!",
+                "d": "I'm fine with that. It's Okay"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "response": [
+            {
+                "a": "I like it too",
+                "b": "Great",
+                "c": "Sounds Good ",
+                "d": "We should also sing together. That would be fun!"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "response": [
+            {
+                "a": "I'm Excited! Can you also take me there? ",
+                "b": "Sounds Exciting",
+                "c": "Me too!",
+                "d": "Sounds Good "
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "response": [
+            {
+                "a": "Yummy! I like it too",
+                "b": "Sounds Good",
+                "c": "Good to know about that.",
+                "d": "Great! "
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "response": [
+            {
+                "a": "Cool! hope to see you ",
+                "b": "Good to know about that.",
+                "c": "Me also! I really need it badly",
+                "d": "Wow! that's really impressive "
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "response": [
+            {
+                "a": "It's Okay",
+                "b": "That's Fine. Maybe we could work on that! ",
+                "c": "I want it too!",
+                "d": "Cool! hope to see you"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "response": [
+            {
+                "a": "Sounds Good",
+                "b": "Me too! ",
+                "c": "Wow! that's really impressive",
+                "d": "Your'e kidding"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "response": [
+            {
+                "a": "That's very sweet.",
+                "b": "Cool! It sounds exciting ",
+                "c": "I like it too! ",
+                "d": "Amazing! I can't wait to go there"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "response": [
+            {
+                "a": "We should hangout! We have so much in common.",
+                "b": "Sounds Good",
+                "c": "Great",
+                "d": "I'm fine with that. It's Okay"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "response": [
+            {
+                "a": "Cool! It sounds exciting ",
+                "b": "Wow! I can't wait to go there with you",
+                "c": "Amazing!",
+                "d": "Sounds Good"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "response": [
+            {
+                "a": "Amazing!",
+                "b": "Good to know about that.",
+                "c": "Wow! that's really impressive",
+                "d": "I love that too"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "response": [
+            {
+                "a": "Yummy! Let's eat together",
+                "b": "Your'e so cute! I love kids too",
+                "c": "Me also! I really need it badly",
+                "d": "That's very sweet."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "response": [
+            {
+                "a": "We should hangout! We have so much in common.",
+                "b": "Sounds Good",
+                "c": "I like it too",
+                "d": "I'm fine with that. It's Okay"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "response": [
+            {
+                "a": "Yummy! Let's eat together",
+                "b": "Amazing",
+                "c": "Good to know about that.",
+                "d": "Great"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "response": [
+            {
+                "a": "I'm cool with that",
+                "b": "Good to know about that.",
+                "c": "I like it too",
+                "d": "Amazing! I also like it"
+            }
+        ]
+    }
+]

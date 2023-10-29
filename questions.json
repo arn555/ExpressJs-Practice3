@@ -1,0 +1,242 @@
+[
+    {   
+        "id": 1,
+        "question": " If you could travel anywhere, right now, where would you go?",
+        "choices": [
+            {
+                "a": "Switzerland",
+                "b": "Maldives",
+                "c": "Japan",
+                "d": "Dubai"
+            }
+        ]
+    },
+    {   
+        "id": 2,
+        "question": " What sports haven't you tried, but would like to?",
+        "choices": [
+            {
+                "a": "Golf",
+                "b": "Archery",
+                "c": "Ice Hockey",
+                "d": "None of the above"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": " If your life was a book what would the title be?",
+        "choices": [
+            {
+                "a": "The Fat and the Furious",
+                "b": "I'm Like A Dog Chasing Cars",
+                "c": "The Wonderful Journey Called Life",
+                "d": "Burnt Desires with Regrets"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": " How many friends do you have?",
+        "choices": [
+            {
+                "a": "1",
+                "b": "2",
+                "c": "3 or more",
+                "d": "None of the above"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Which do you prefer living? ",
+        "choices": [
+            {
+                "a": "In the Countryside",
+                "b": "In a Town",
+                "c": "In a Big City",
+                "d": "In a Island"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "What musical instruments have you tried playing? ",
+        "choices": [
+            {
+                "a": "Piano",
+                "b": "Ukelele",
+                "c": "Guitar",
+                "d": "None of the above"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Time freezes for everyone but you for one day. What do you do? ",
+        "choices": [
+            {
+                "a": "Go into a mall and Take Everything",
+                "b": "Steal A Ferarri and Yacht",
+                "c": "Steal as much money and valuables as I could get",
+                "d": "Go live in the white house"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "What outdoor activity haven't you tried, but would like to?" ,
+        "choices": [
+            {
+                "a": "Zip Lining",
+                "b": "Sky Diving",
+                "c": "Mountain Climbing",
+                "d": "Surfing"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "What's your favorite dessert?" ,
+        "choices": [
+            {
+                "a": "Ice Cream",
+                "b": "Cakes",
+                "c": "Chocolates",
+                "d": "Fruits"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question": "What do you like to do during your free time?" ,
+        "choices": [
+            {
+                "a": "Exercise",
+                "b": "Read a Book",
+                "c": "Rest and Relax",
+                "d": "Spend Time with Friends and Family"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question": "What Does a Healthy Relationship Look Like?" ,
+        "choices": [
+            {
+                "a": "Inability to resolve conflict",
+                "b": "Lack of trust",
+                "c": "Respect your boundaries",
+                "d": "Trust each other"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question": "If you had one wish what would you wish for?" ,
+        "choices": [
+            {
+                "a": "Financial stability",
+                "b": "Healthy Life",
+                "c": "To be Happy and Contented",
+                "d": "Can breathe underwater"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question": "What is one activity that you would like to do on a date?" ,
+        "choices": [
+            {
+                "a": "Go on a picnic",
+                "b": "Attend a Concert",
+                "c": "Try out a new cafe",
+                "d": "Head to the zoo"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question": "What kind of pet have you ever had since you were a child?" ,
+        "choices": [
+            {
+                "a": "Dog",
+                "b": "Cat",
+                "c": "Fish",
+                "d": "None of the above"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question": "What is your bucket list?" ,
+        "choices": [
+            {
+                "a": "Go camping and have a bonfire",
+                "b": "Watch Aurora Borealis in Norway",
+                "c": "Go Skiing",
+                "d": "Go Horseback Riding"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question": "What qualities is most attractive to you in a partner?" ,
+        "choices": [
+            {
+                "a": "Intelligent",
+                "b": "Physical Appearance",
+                "c": "Maturity",
+                "d": "Sense of humor"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question": "What are the little things that brighten your day?" ,
+        "choices": [
+            {
+                "a": "Eating your favorite dish",
+                "b": "Seeing children laughing together",
+                "c": "Having a peaceful sleep in saturday mornings",
+                "d": "Smile of your mother"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question": "What types of music do you enjoy listening to?" ,
+        "choices": [
+            {
+                "a": "Pop music",
+                "b": "Rock music",
+                "c": "R&B music",
+                "d": "None of the above"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question": "what type of food is cuisine do you like?" ,
+        "choices": [
+            {
+                "a": "American",
+                "b": "Mexican",
+                "c": "Indian",
+                "d": "Japanese "
+            }
+        ]
+    }, 
+    {
+        "id": 20,
+        "question": "Which season are you most active in?" ,
+        "choices": [
+            {
+                "a": "Winter",
+                "b": "Summer",
+                "c": "Fall",
+                "d": "Spring"
+            }
+        ]
+    }
+]
